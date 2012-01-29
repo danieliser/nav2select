@@ -1,0 +1,2 @@
+This plugin converts a group of navigation links into a select box that will change the page on selection. This is particularly useul for reactive/responsive web design for navigation menus.
+This is a plugin based on the article Convert a Menu to a Dropdown for Small Screens by: Chris Coyier @http://css-tricks.com/convert-menu-to-dropdown/
